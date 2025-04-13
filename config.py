@@ -53,7 +53,7 @@ CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
 
 #set True if you want to prevent users from forwarding files from bot
 PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" else False
-GRP_LNK = os.environ.get("GRP_LNK", "https://t.me/Filmy_Fusion")
+GRP_LNK = os.environ.get("GRP_LNK", "https://t.me/+hf0frQmRGu41Yzll")
 
 # Auto delete time in seconds.
 AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", "0"))
