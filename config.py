@@ -17,7 +17,7 @@ APP_ID = int(os.environ.get("APP_ID", "20421609"))
 API_HASH = os.environ.get("API_HASH", "17187c5466fb7044793bfa8bcaa9ec68")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001965914571"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002505290516"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "1511468725"))
